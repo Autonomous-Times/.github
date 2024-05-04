@@ -8,16 +8,17 @@ This leads me to a project that continually captivates my attention: a holistic 
 
 Here's our exploration: developing foundational tools for sharing Markdown texts that possess the following attributes:
 
-Version control for tracking changes over time.
-Encryption to safeguard sensitive content.
-Collaboration capabilities, enabling multiple contributors.
-Compatibility with various editing platforms.
-Ownership recorded on a blockchain ledger.
-Author-publisher agreements stored on-chain, preserving shared ownership without transfer.
-Flexibility for temporary or revocable agreements between parties.
-Publishers structured as decentralized autonomous organizations (DAOs) on the blockchain.
-HTML generation and deletion managed by a neutral static site generator, governed by on-chain agreements.
-Web hosting facilitated through a marketplace of computing providers.
+* Version control for tracking changes over time.
+* Encryption to safeguard sensitive content.
+* Collaboration capabilities, enabling multiple contributors.
+* Compatibility with various editing platforms.
+* Ownership recorded on a blockchain ledger.
+* Author-publisher agreements stored on-chain, preserving shared ownership without transfer.
+* Flexibility for temporary or revocable agreements between parties.
+* Publishers structured as decentralized autonomous organizations (DAOs) on the blockchain.
+* HTML generation and deletion managed by a neutral static site generator, governed by on-chain agreements.
+* Web hosting facilitated through a marketplace of computing providers.
+
 In essence, we're building a robust ecosystem where collaborative writing and publishing thrive, empowered by decentralized principles and cutting-edge technology.
 
 
